@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Combat_Zone.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F160B0BF-7A21-4AA7-80A4-F73E41514DD6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Combat_Zone.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Combat_ZoneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6363DF28-D532-4FD9-8625-85529B567BEF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Combat_Zone">
+      <UniqueIdentifier>{A3F5F6DB-8660-4DEF-86FD-1AF15BA41CAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Combat_Zone\Combat_Zone.Build.cs">
+      <Filter>Source\Combat_Zone</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Combat_Zone\Combat_Zone.cpp">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Combat_Zone\Combat_Zone.h">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Combat_Zone\Combat_ZoneGameMode.cpp">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Combat_Zone\Combat_ZoneGameMode.h">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Combat_Zone\Combat_ZonePawn.cpp">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Combat_Zone\Combat_ZonePawn.h">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Combat_Zone\Combat_ZoneProjectile.cpp">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Combat_Zone\Combat_ZoneProjectile.h">
+      <Filter>Source\Combat_Zone</Filter>
+    </ClInclude>
+    <Filter Include="Source\Combat_Zone\Private">
+      <UniqueIdentifier>{1B5C428A-A7AA-42B1-8A81-5D3DA7BD2941}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\EnemigosAnormales_.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Enemigos_Eespeciales.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Enemigo_BaseGeneral.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Francotiradora.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Kamikaze.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Liviana.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Normal.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Pesada.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Combat_Zone\Private\Nave_Tanque.cpp">
+      <Filter>Source\Combat_Zone\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Combat_Zone\Public">
+      <UniqueIdentifier>{245D2144-346A-4975-A5A3-D91005050182}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\EnemigosAnormales_.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Enemigos_Eespeciales.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Enemigo_BaseGeneral.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Francotiradora.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Kamikaze.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Liviana.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Normal.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Pesada.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Combat_Zone\Public\Nave_Tanque.h">
+      <Filter>Source\Combat_Zone\Public</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

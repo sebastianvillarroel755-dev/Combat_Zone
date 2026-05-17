@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Combat_Zone",
+			"Path": "D:\\labcurso\\Combat_Zone\\Source\\Combat_Zone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Combat_ZoneEditor",
+			"Path": "D:\\labcurso\\Combat_Zone\\Source\\Combat_ZoneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

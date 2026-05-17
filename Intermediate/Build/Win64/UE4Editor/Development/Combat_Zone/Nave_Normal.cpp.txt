@@ -1,0 +1,7 @@
+D:\labcurso\Combat_Zone\Intermediate\Build\Win64\UE4Editor\Development\Combat_Zone\Definitions.Combat_Zone.h
+D:\labcurso\Combat_Zone\Source\Combat_Zone\Public\Nave_Normal.h
+D:\labcurso\Combat_Zone\Source\Combat_Zone\Public\EnemigosAnormales_.h
+D:\labcurso\Combat_Zone\Source\Combat_Zone\Public\../Combat_ZoneProjectile.h
+D:\labcurso\Combat_Zone\Intermediate\Build\Win64\UE4Editor\Inc\Combat_Zone\Combat_ZoneProjectile.generated.h
+D:\labcurso\Combat_Zone\Intermediate\Build\Win64\UE4Editor\Inc\Combat_Zone\EnemigosAnormales_.generated.h
+D:\labcurso\Combat_Zone\Intermediate\Build\Win64\UE4Editor\Inc\Combat_Zone\Nave_Normal.generated.h
